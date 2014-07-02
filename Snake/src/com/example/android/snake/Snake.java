@@ -30,7 +30,7 @@ import android.widget.TextView;
  * This is an implementation of the classic Game "Snake", in which you control a serpent roaming
  * around the garden looking for apples. Be careful, though, because when you catch one, not only
  * will you become longer, but you'll move faster. Running into yourself or the walls will end the
- * game.
+ * game.   test
  * 
  */
 public class Snake extends Activity {
